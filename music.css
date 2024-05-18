@@ -1,0 +1,29 @@
+*{ 
+    margin: 0px;
+    width: auto;
+}
+body{
+    background-image: url(./image/rolly.jpg);
+    background-size: cover;
+}
+h1{
+    color: wheat;
+    margin: 20%;
+}
+img{
+    max-width:100%;
+}
+.buk{
+    border:2px solid red ;
+    box-sizing: content-box;
+    border-radius: 5px;
+    margin:12%;
+    width: 40%;
+    text-align: center;
+}
+p{
+    color: wheat;
+    margin:5%;
+    font-size: 20px;
+    text-align: center;
+}@media screen and (max-width)
